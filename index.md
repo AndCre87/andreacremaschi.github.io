@@ -1,4 +1,4 @@
-## Andrea Cremascchi
+## Intro
 
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
 My research interests include both the methodological and applied aspects of Statistics,
