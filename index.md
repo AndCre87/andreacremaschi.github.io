@@ -1,4 +1,5 @@
-<img src="cremaschi.jpg" alt="" class="inline"/>
+
+![useful image]({{ site.url }}/cremaschi.jpg)
 
 ## Andrea Cremaschi
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
