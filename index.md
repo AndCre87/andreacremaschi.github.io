@@ -1,5 +1,5 @@
 
-![useful image](cremaschi.png)
+![](cremaschi.png | width=100)
 
 ## Andrea Cremaschi
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
