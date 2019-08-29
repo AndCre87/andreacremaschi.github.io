@@ -1,5 +1,5 @@
 
-![useful image](cremaschi.jpg)
+![useful image](cremaschi.png)
 
 ## Andrea Cremaschi
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
