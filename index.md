@@ -1,5 +1,4 @@
 ## Andrea Cremaschi
-
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
 My research interests include both the methodological and applied aspects of Statistics,
 particularly within the Bayesian framework.
@@ -38,7 +37,6 @@ Syntax highlighted code block
 ```
 
 ### Curriculum Vitae
-
 Here you can download a pdf version of my CV.
 
 [CV](https://github.com/AndCre87/andreacremaschi.github.io/raw/master/EuropeCV_Cremaschi.pdf)
@@ -50,7 +48,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndCre87/andreacremaschi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
-
+**Work**: andrea.cremaschi@yale-nus.edu.sg
 **Personal**: andreacremaschi87@gmail.com
 
-_Work_: andrea.cremaschi@yale-nus.edu.sg
