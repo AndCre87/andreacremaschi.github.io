@@ -53,4 +53,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 **Personal**: andreacremaschi87@gmail.com
 
-_Work_: andrea.cremaschi@nus.edu.sg
+_Work_: andrea.cremaschi@yale-nus.edu.sg
