@@ -1,4 +1,4 @@
-<img src="images/emoticons/cool.png" alt="hi" class="inline"/>
+<img src="images/Fig1.png" alt="" class="inline"/>
 
 ## Andrea Cremaschi
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
