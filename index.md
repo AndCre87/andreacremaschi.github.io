@@ -1,3 +1,5 @@
+<img src="images/emoticons/cool.png" alt="hi" class="inline"/>
+
 ## Andrea Cremaschi
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
 My research interests include both the methodological and applied aspects of Statistics,
