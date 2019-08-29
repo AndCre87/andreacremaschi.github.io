@@ -15,37 +15,10 @@ The work I am conducting at Yale-NUS focuses on the implementation of advanced, 
 The three PostDoc years in Oslo have been pivotal in building my research interests. There, I have been able to learn a lot about Biostatistics and real-life data applications, and often had the possibility to participate by providing useful statistical insights to the study.
 In close collaboration with the Institute for Cancer Research, the Norwegian Centre for Molecular Medicine (NCMM), and the hospitals operating in cancer research, I focused on the analysis of dose-response data derived from cancer patients. In particular, my main project revolved around the study of drug-drug combination experiments, i.e. \textit{in-vitro} assays in which multiple drugs are tested simultaneously. The aim of the (still ongoing) study is to quantify the differential effect emerging from such experiments via the specification of suitable statistical models. 
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
- and ![Image](src)
-```
-
 ### Curriculum Vitae
 Here you can download a pdf version of my CV.
 
 [CV](https://github.com/AndCre87/andreacremaschi.github.io/raw/master/EuropeCV_Cremaschi.pdf)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndCre87/andreacremaschi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 **Work**: andrea.cremaschi@yale-nus.edu.sg
