@@ -1,5 +1,5 @@
 
-| ## Andrea Cremaschi | ![Face](cremaschi.png, width="100") |
+## Andrea Cremaschi | ![Face](cremaschi.png | width="100") |
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
 My research interests include both the methodological and applied aspects of Statistics,
 particularly within the Bayesian framework.
