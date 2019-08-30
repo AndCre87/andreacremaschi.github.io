@@ -1,4 +1,3 @@
-![Face](cremaschi.png =100x)
 
 <img src="cremaschi.jpg" alt="drawing" width="200"/>
 
