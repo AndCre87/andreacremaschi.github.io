@@ -1,4 +1,4 @@
-![Face](cremaschi.png "Optional Title")
+![Face](cremaschi.png?raw=true "Optional Title")
 
 ## Andrea Cremaschi
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
