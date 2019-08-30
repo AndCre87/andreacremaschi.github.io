@@ -17,7 +17,7 @@ Work is one of my priorities - for sure - but not the only one. I like to keep m
 <img src="subFig2.jpg" alt="drawing" width="125"/>  <img src="subFig3.jpg" alt="drawing" width="125"/>  <img src="subFig4.jpg" alt="drawing" width="125"/> <img src="subFig5.jpg" alt="drawing" width="125"/>
 
 ### PostDoc activity @ Yale-NUS, Singapore
-The work I am conducting at Yale-NUS focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, we are interestd in studying challenging datasets, involing mixed-type responses and covariates and time dynamics. The application of Bayesian nonparametric models to this challenging work is aimed at providing a more flexible fitting.
+The work I am conducting at Yale-NUS focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, I am interested in studying challenging datasets, involving mixed-type responses, covariates and time dynamics. The application of Bayesian nonparametric models to this challenging work is aimed at providing a more flexible fitting.
 
 ### PostDoc activity @ UiO, Oslo
 The three PostDoc years in Oslo have been pivotal in building my research interests. There, I have been able to learn a lot about Biostatistics and real-life data applications, and often had the possibility to participate by providing useful statistical insights to the study.
