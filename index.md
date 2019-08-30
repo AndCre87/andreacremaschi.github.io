@@ -1,4 +1,4 @@
-![Face](cremaschi.png?raw=true)(#features)
+![Face](cremaschi.png?raw=true width = 10)
 
 ## Andrea Cremaschi
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
