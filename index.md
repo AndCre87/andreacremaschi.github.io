@@ -1,5 +1,4 @@
 
-
 ## About my work               <img src="MainFig.jpg" alt="drawing" width="200"/>
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
 My research interests include both the methodological and applied aspects of Statistics,
