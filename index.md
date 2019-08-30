@@ -12,7 +12,7 @@ mixed types in the model. Other research interests concern model-based cluster a
 ## ...and a little more
 Work is one of my priorities - for sure - but not the only one. I like to keep myself busy with many activities. I often swim, spin, do yoga and walk in the nature. When climate/season allows, I really enjoy cross-country skiing (that's something I learnt in Norway!). For more relaxing times, I am a decent cook and love gathering herbs, berries and mushrooms. Here are some more pictures of me.
 
-<img src="subFig1.jpg" alt="drawing" width="150"/>  <img src="subFig2.jpg" alt="drawing" width="125"/>  <img src="subFig3.jpg" alt="drawing" width="125"/>  <img src="subFig4.jpg" alt="drawing" width="125"/> <img src="subFig5.jpg" alt="drawing" width="125"/>
+<img src="subFig2.jpg" alt="drawing" width="125"/>  <img src="subFig3.jpg" alt="drawing" width="125"/>  <img src="subFig4.jpg" alt="drawing" width="125"/> <img src="subFig5.jpg" alt="drawing" width="125"/>
 
 ### PostDoc activity @ Yale-NUS, Singapore
 The work I am conducting at Yale-NUS focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, we are interestd in studying challenging datasets, involing mixed-type responses and covariates and time dynamics. The application of Bayesian nonparametric models to this challenging work is aimed at providing a more flexible fitting.
