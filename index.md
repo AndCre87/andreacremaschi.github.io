@@ -1,5 +1,8 @@
 ![Face](cremaschi.png =100x)
 
+<img src="cremaschi.jpg" alt="drawing" width="200"/>
+
+
 ## Andrea Cremaschi
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
 My research interests include both the methodological and applied aspects of Statistics,
