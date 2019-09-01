@@ -1,5 +1,5 @@
 # Andrea Cremaschi
-<img src="MainFig.jpg" alt="drawing" width="200"/>
+<img src="MainFig2.jpg" alt="drawing" width="200"/>
 
 ## About my work
 I am a PostDoc Fellow in Statistics at the Yale-NUS College, in Singapore.
