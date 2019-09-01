@@ -1,5 +1,5 @@
 # Andrea Cremaschi
-<img src="MainFig2.jpg" alt="drawing" width="200"/>
+<img src="MainFig2.jpg" alt="drawing" width="210"/>
 
 ## About my work
 I am a PostDoc Fellow in Statistics at the Yale-NUS College, in Singapore. I'm originally from the outskirt of Milano, Italy.
@@ -17,7 +17,7 @@ Work is one of my priorities - for sure - but not the only one. I like to keep m
 
 Here are some more pictures of me:
 
-<img src="subFig2.jpg" alt="drawing" width="135"/>  <img src="subFig3.jpg" alt="drawing" width="135"/>  <img src="subFig4.jpg" alt="drawing" width="135"/> <img src="subFig5.jpg" alt="drawing" width="135"/> <img src="subFig6.jpg" alt="drawing" width="135"/>
+<img src="subFig2.jpg" alt="drawing" width="140"/>  <img src="subFig3.jpg" alt="drawing" width="140"/>  <img src="subFig4.jpg" alt="drawing" width="140"/> <img src="subFig5.jpg" alt="drawing" width="140"/>
 
 ## PostDoc activity @ Yale-NUS, Singapore
 The work I am conducting at Yale-NUS focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, I am interested in studying challenging datasets, involving mixed-type responses, covariates and time dynamics. The application of Bayesian nonparametric models to this challenging work is aimed at providing a more flexible fitting.
