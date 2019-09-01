@@ -24,7 +24,7 @@ The three PostDoc years in Oslo have been pivotal in building my research intere
 In close collaboration with the Institute for Cancer Research, the Norwegian Centre for Molecular Medicine (NCMM), and the hospitals operating in cancer research, I focused on the analysis of dose-response data derived from cancer patients. In particular, my main project revolved around the study of drug-drug combination experiments, i.e. _in-vitro_ assays in which multiple drugs are tested simultaneously. The aim of the (still ongoing) study is to quantify the differential effect emerging from such experiments via the specification of suitable statistical models. 
 
 ### Curriculum Vitae
-[Here](https://github.com/AndCre87/andreacremaschi.github.io/raw/master/EuropeCV_Cremaschi.pdf) you can download a pdf version of my CV
+[Here](https://github.com/AndCre87/andreacremaschi.github.io/raw/master/CV_Cremaschi.pdf) you can download a pdf version of my CV
 
 
 ### Contact
