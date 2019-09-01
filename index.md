@@ -16,18 +16,18 @@ Work is one of my priorities - for sure - but not the only one. I like to keep m
 
 <img src="subFig2.jpg" alt="drawing" width="135"/>  <img src="subFig3.jpg" alt="drawing" width="135"/>  <img src="subFig4.jpg" alt="drawing" width="135"/> <img src="subFig5.jpg" alt="drawing" width="135"/> <img src="subFig6.jpg" alt="drawing" width="135"/>
 
-### PostDoc activity @ Yale-NUS, Singapore
+## PostDoc activity @ Yale-NUS, Singapore
 The work I am conducting at Yale-NUS focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, I am interested in studying challenging datasets, involving mixed-type responses, covariates and time dynamics. The application of Bayesian nonparametric models to this challenging work is aimed at providing a more flexible fitting.
 
-### PostDoc activity @ UiO, Oslo
+## PostDoc activity @ UiO, Oslo
 The three PostDoc years in Oslo have been pivotal in building my research interests. There, I have been able to learn a lot about Biostatistics and real-life data applications, and often had the possibility to participate by providing useful statistical insights to the study.
 In close collaboration with the Institute for Cancer Research, the Norwegian Centre for Molecular Medicine (NCMM), and the hospitals operating in cancer research, I focused on the analysis of dose-response data derived from cancer patients. In particular, my main project revolved around the study of drug-drug combination experiments, i.e. _in-vitro_ assays in which multiple drugs are tested simultaneously. The aim of the (still ongoing) study is to quantify the differential effect emerging from such experiments via the specification of suitable statistical models. 
 
-### Curriculum Vitae
+## Curriculum Vitae
 [Here](https://github.com/AndCre87/andreacremaschi.github.io/raw/master/CV_Cremaschi.pdf) you can download a pdf version of my CV
 
 
-### Contact
+## Contact
 **Work**: andrea.cremaschi@yale-nus.edu.sg
 
 **Personal**: andreacremaschi87@gmail.com
