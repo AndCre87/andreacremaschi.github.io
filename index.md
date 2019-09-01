@@ -1,7 +1,7 @@
 # Andrea Cremaschi
+<img src="MainFig.jpg" alt="drawing" width="200"/>
 
-
-## About my work               <img src="MainFig.jpg" alt="drawing" width="200"/>
+## About my work
 I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
 My research interests include both the methodological and applied aspects of Statistics,
 particularly within the Bayesian framework.
