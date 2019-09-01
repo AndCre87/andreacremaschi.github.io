@@ -2,7 +2,7 @@
 <img src="MainFig.jpg" alt="drawing" width="200"/>
 
 ## About my work
-I am a PostDoc Fellow in Statistics at Yale-NUS, Singapore.
+I am a PostDoc Fellow in Statistics at the Yale-NUS College, in Singapore.
 My research interests include both the methodological and applied aspects of Statistics,
 particularly within the Bayesian framework.
 One of my main interests is Bayesian nonparametrics (BNP), and the use of flexible mixture
