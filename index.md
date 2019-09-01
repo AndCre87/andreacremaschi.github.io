@@ -2,7 +2,7 @@
 <img src="MainFig2.jpg" alt="drawing" width="200"/>
 
 ## About my work
-I am a PostDoc Fellow in Statistics at the Yale-NUS College, in Singapore.
+I am a PostDoc Fellow in Statistics at the Yale-NUS College, in Singapore. I'm originally from the outskirt of Milano, Italy :it:.
 My research interests include both the methodological and applied aspects of Statistics,
 particularly within the Bayesian framework.
 One of my main interests is Bayesian nonparametrics (BNP), and the use of flexible mixture
@@ -12,7 +12,9 @@ dependency structure, group-specific dependencies, as well as the flexible inclu
 mixed types in the model. Other research interests concern model-based cluster analysis, and the use of graphical models for inference in dataset characterised by a sparse dependency.
 
 ## ...and a little more
-Work is one of my priorities - for sure - but not the only one. I like to keep myself busy with many activities. I often swim, spin, do yoga and walk in the nature. When climate/season allows, I really enjoy cross-country skiing (that's something I learnt in Norway!). For more relaxing times, I am a decent cook and love gathering herbs :herb:, berries :strawberry: and mushrooms :mushroom:. Here are some more pictures of me:
+Work is one of my priorities - for sure - but not the only one. I like to keep myself busy with many activities. I often swim, spin, do yoga and walk in the nature. When climate/season allows, I really enjoy cross-country skiing (that's something I learnt in Norway!). For more relaxing times, I am a decent cook and love gathering herbs :herb:, berries :strawberry: and mushrooms :mushroom:.
+
+Here are some more pictures of me:
 
 <img src="subFig2.jpg" alt="drawing" width="135"/>  <img src="subFig3.jpg" alt="drawing" width="135"/>  <img src="subFig4.jpg" alt="drawing" width="135"/> <img src="subFig5.jpg" alt="drawing" width="135"/> <img src="subFig6.jpg" alt="drawing" width="135"/>
 
