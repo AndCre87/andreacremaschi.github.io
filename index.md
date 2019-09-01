@@ -3,6 +3,7 @@
 
 ## About my work
 I am a PostDoc Fellow in Statistics at the Yale-NUS College, in Singapore. I'm originally from the outskirt of Milano, Italy.
+
 My research interests include both the methodological and applied aspects of Statistics,
 particularly within the Bayesian framework.
 One of my main interests is Bayesian nonparametrics (BNP), and the use of flexible mixture
