@@ -1,8 +1,8 @@
-# Andrea Cremaschi
+R# Andrea Cremaschi
 <img src="MainFig2.jpg" alt="drawing" width="210"/>
 
 ## About my work
-I am a PostDoc Fellow in Statistics at the Yale-NUS College, in Singapore. 
+I am a Senior Research Fellow in Biostatistics at the Agency for Science, Technology and Research (A*STAR), in Singapore. 
 
 My research interests include both the methodological and applied aspects of Statistics,
 particularly within the Bayesian framework.
@@ -19,8 +19,8 @@ Here are some more pictures of me:
 
 <img src="subFig2.jpg" alt="drawing" width="140"/>  <img src="subFig3.jpg" alt="drawing" width="140"/>  <img src="subFig4.jpg" alt="drawing" width="140"/> <img src="subFig5.jpg" alt="drawing" width="140"/>
 
-## PostDoc activity @ Yale-NUS, Singapore
-The work I am conducting at Yale-NUS focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, I am interested in studying challenging datasets, involving mixed-type responses, covariates and time dynamics. The application of Bayesian nonparametric models to this challenging work is aimed at providing a more flexible fitting.
+## Research activity @ A*STAR, Singapore
+The work I am conducting at A*STAR focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, I am interested in studying challenging datasets, involving mixed-type responses, covariates and time dynamics. The application of Bayesian nonparametric models to this challenging work is aimed at providing a more flexible fitting.
 
 ## PostDoc activity @ UiO, Oslo
 The three PostDoc years in Oslo have been pivotal in building my research interests. There, I have been able to learn a lot about Biostatistics and real-life data applications, and often had the possibility to participate by providing useful statistical insights to the study.
@@ -31,7 +31,7 @@ In close collaboration with the Institute for Cancer Research, the Norwegian Cen
 
 
 ## Contact
-**Work**: andrea.cremaschi@yale-nus.edu.sg
+**Work**: andrea.cremaschi@sics.a-star.edu.sg
 
 **Personal**: andreacremaschi87@gmail.com
 
