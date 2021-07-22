@@ -31,5 +31,5 @@ In close collaboration with the Institute for Cancer Research and the Norwegian 
 
 
 ## Contact
-**Email**: andrea.cremaschi@sics.a-star.edu.sg
+**Email**: cremaschia@sics.a-star.edu.sg
 
