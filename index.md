@@ -13,9 +13,7 @@ dependence structure, group-specific dependencies, as well as the flexible inclu
 mixed types in the model. Other research interests concern model-based cluster analysis, graphical models and multiple response analysis.
 
 ## ...and a little more
-Work is one of my priorities - for sure - but not the only one. I like to keep myself busy with many activities. I often swim, do yoga and walk in the nature. When climate/season allows, I really like cross-country skiing (something I learnt in Norway!). For more relaxing times, I am a decent cook and enjpoy gathering herbs, berries and mushrooms.
-
-Here are some more pictures of me:
+Work is one of my priorities - for sure - but not the only one. I like to keep myself busy with many activities. I often swim, do yoga and walk in the nature. When climate/season allows, I really like cross-country skiing (something I learnt in Norway!). For more relaxing times, I am a decent cook and enjoy gathering herbs, berries and mushrooms.
 
 <img src="subFig2.jpg" alt="drawing" width="140"/>  <img src="subFig3.jpg" alt="drawing" width="140"/>  <img src="subFig4.jpg" alt="drawing" width="140"/> <img src="subFig5.jpg" alt="drawing" width="140"/>
 
