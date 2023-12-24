@@ -51,7 +51,7 @@ Argiento R, **Cremaschi A**, Guglielmi A (2014) A “Density-Based” Algorithm 
 
 ## Research activity @ A*STAR, Singapore
 The work I am conducting at A*STAR focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, I am interested in studying challenging datasets, involving mixed-type responses, covariates and time dynamics. In this framework, the application of Bayesian nonparametric models allows for a more flexible fitting. The focus of my work is on detection of modifiable factors for early intervention, by analysisng data from large cohorts involving children and their parents. The aspects I mostly focus on are transaltional neuroscience, metabolomics and child development.
-I am also interested in the cost-effectiveness anaysis of intervention strategies in the framework of Health Economics.
+I am also interested in the cost-effectiveness analysis of intervention strategies in the framework of Health Economics.
 
 ## PostDoc activity @ UiO, Oslo
 The three PostDoc years in Oslo have been pivotal in building my research interests. There, I have been able to learn a lot about Biostatistics and real-life data applications, and often had the possibility to participate by providing useful statistical insights to the study.
