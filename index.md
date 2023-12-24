@@ -4,8 +4,7 @@ Andrea Cremaschi
 ## About my work
 I am a Research Scientist in Biostatistics at the Singapore Institute for Clinical Sciences (SICS), Agency for Science, Technology and Research (A*STAR), in Singapore.
 
-My research interests include both the methodological and applied aspects of Statistics, 
-particularly within the Bayesian framework.
+My research interests include both the methodological and applied aspects of Statistics, particularly within the Bayesian framework.
 One of my main interests is Bayesian nonparametrics (BNP), and the use of flexible mixture
 models for inference in scenarios where the data present peculiar features. In my recent
 works, I focus on modelling data presenting deviation from Gaussianity and a sparse
@@ -66,7 +65,7 @@ Work is one of my priorities - for sure - but not the only one. I like to keep m
 <img src="subFig2.jpg" alt="drawing" width="140"/>  <img src="subFig3.jpg" alt="drawing" width="140"/>  <img src="subFig4.jpg" alt="drawing" width="140"/> <img src="subFig5.jpg" alt="drawing" width="140"/>
 
 ## Research activity @ A*STAR, Singapore
-The work I am conducting at A*STAR focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, I am interested in studying challenging datasets, involving mixed-type responses, covariates and time dynamics. In this framework, the application of Bayesian nonparametric models allows for a more flexible fitting. The focus of my work is on detection of modifiable factors for early intervention, by analysisng data from large cohorts involving children and their parents. The aspects I mostly focus on are transaltional neuroscience, metabolomic and child development.
+The work I am conducting at A*STAR focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, I am interested in studying challenging datasets, involving mixed-type responses, covariates and time dynamics. In this framework, the application of Bayesian nonparametric models allows for a more flexible fitting. The focus of my work is on detection of modifiable factors for early intervention, by analysisng data from large cohorts involving children and their parents. The aspects I mostly focus on are transaltional neuroscience, metabolomics and child development.
 I am also interested in the cost-effectiveness anaysis of intervention strategies in the framework of Health Economics.
 
 ## PostDoc activity @ UiO, Oslo
