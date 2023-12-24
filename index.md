@@ -49,9 +49,17 @@ Argiento R, **Cremaschi A**, Guglielmi A (2014) A “Density-Based” Algorithm 
 **Cremaschi A**, Yang W, De Iorio M, Evans WE, Yang JJ and Rosner GL. Bayesian modelling of response to therapy and drug-sensitivity in acute lymphoblastic leukemia. _Research Square_. doi: 10.21203/rs.3.rs-2542277/v1 
 
 
+## Research activity @ A*STAR, Singapore
+The work I am conducting at A*STAR focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, I am interested in studying challenging datasets, involving mixed-type responses, covariates and time dynamics. In this framework, the application of Bayesian nonparametric models allows for a more flexible fitting. The focus of my work is on detection of modifiable factors for early intervention, by analysisng data from large cohorts involving children and their parents. The aspects I mostly focus on are transaltional neuroscience, metabolomics and child development.
+I am also interested in the cost-effectiveness anaysis of intervention strategies in the framework of Health Economics.
+
+## PostDoc activity @ UiO, Oslo
+The three PostDoc years in Oslo have been pivotal in building my research interests. There, I have been able to learn a lot about Biostatistics and real-life data applications, and often had the possibility to participate by providing useful statistical insights to the study.
+In close collaboration with the Institute for Cancer Research and the Norwegian Centre for Molecular Medicine (NCMM), I focused on the analysis of dose-response data derived from cancer patients. In particular, my main project revolved around the study of drug-drug combination experiments, i.e. _in-vitro_ assays in which multiple drugs are tested simultaneously. The aim of the study is to quantify the differential effect emerging from such experiments via the specification of suitable statistical models. 
+
 
 ## Curriculum Vitae
-[Here](https://github.com/AndCre87/andreacremaschi.github.io/raw/master/CV_Cremaschi.pdf) you can download a pdf version of my CV
+[Here](https://github.com/AndCre87/andreacremaschi.github.io/raw/master/CV_Cremaschi.pdf) you can find my full CV.
 
 
 ## Contact
@@ -64,13 +72,7 @@ Work is one of my priorities - for sure - but not the only one. I like to keep m
 
 <img src="subFig2.jpg" alt="drawing" width="140"/>  <img src="subFig3.jpg" alt="drawing" width="140"/>  <img src="subFig4.jpg" alt="drawing" width="140"/> <img src="subFig5.jpg" alt="drawing" width="140"/>
 
-## Research activity @ A*STAR, Singapore
-The work I am conducting at A*STAR focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, I am interested in studying challenging datasets, involving mixed-type responses, covariates and time dynamics. In this framework, the application of Bayesian nonparametric models allows for a more flexible fitting. The focus of my work is on detection of modifiable factors for early intervention, by analysisng data from large cohorts involving children and their parents. The aspects I mostly focus on are transaltional neuroscience, metabolomics and child development.
-I am also interested in the cost-effectiveness anaysis of intervention strategies in the framework of Health Economics.
 
-## PostDoc activity @ UiO, Oslo
-The three PostDoc years in Oslo have been pivotal in building my research interests. There, I have been able to learn a lot about Biostatistics and real-life data applications, and often had the possibility to participate by providing useful statistical insights to the study.
-In close collaboration with the Institute for Cancer Research and the Norwegian Centre for Molecular Medicine (NCMM), I focused on the analysis of dose-response data derived from cancer patients. In particular, my main project revolved around the study of drug-drug combination experiments, i.e. _in-vitro_ assays in which multiple drugs are tested simultaneously. The aim of the study is to quantify the differential effect emerging from such experiments via the specification of suitable statistical models. 
 
 
 
