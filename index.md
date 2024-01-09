@@ -2,7 +2,7 @@ Andrea Cremaschi
 <img src="MainFig2.jpg" alt="drawing" width="210"/>
 
 ## About my work
-I am a Research Scientist in Biostatistics at the Singapore Institute for Clinical Sciences (SICS), Agency for Science, Technology and Research (A*STAR), in Singapore.
+I am a Senior Scientist I in Biostatistics at the Singapore Institute for Clinical Sciences (SICS), Agency for Science, Technology and Research (A*STAR), Singapore.
 
 My research interests include both the methodological and applied aspects of Statistics, particularly within the Bayesian framework.
 One of my main interests is Bayesian nonparametrics (BNP), and the use of flexible mixture
