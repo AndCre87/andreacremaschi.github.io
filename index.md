@@ -2,17 +2,18 @@ Andrea Cremaschi
 <img src="MainFig2.jpg" alt="drawing" width="210"/>
 
 ## About my work
-I am a Senior Scientist I in Biostatistics at the Singapore Institute for Clinical Sciences (SICS), Agency for Science, Technology and Research (A*STAR), Singapore.
+I am currently Assistant Professor at the School, of Science and Techonology, IE University in Madrid, Spain.
 
-My research interests include both the methodological and applied aspects of Statistics, particularly within the Bayesian framework.
+My research interests include both methodological and applied aspects of Statistics, particularly within the Bayesian framework.
 One of my main interests is Bayesian nonparametrics (BNP), and the use of flexible mixture
-models for inference in scenarios where the data present peculiar features. In my recent
-works, I focus on modelling data presenting deviation from Gaussianity and a sparse
-dependence structure, group-specific dependencies, as well as the flexible inclusion covariate of
-mixed types in the model. 
+models for inference in scenarios where the data present peculiar features. In recent
+works, I focussed on modelling data presenting deviation from Gaussianity and a sparse
+dependence structure, group-specific dependencies, as well as the flexible modelling of mixed-type covariates. 
 Other research interests are model-based cluster analysis, graphical models, multiple response analysis and item-response theory.
 
 ## Selected Publications
+
+**Cremaschi A**, Wertz T, De Iorio M. “Repulsion, Chaos and Equilibrium in Mixture Models”. _Journal of the Royal Statistical Society B (Statistical Methodology)_. accepted.
 
 **Cremaschi A**, De Iorio M, Kothandaraman N, Yap F, Tint MT and Eriksson J (2023) Joint modelling of association networks and longitudinal biomarkers: an application to child obesity. _Statistics in Medicine_ - in publication.
 
@@ -42,11 +43,9 @@ Argiento R, **Cremaschi A**, Guglielmi A (2014) A “Density-Based” Algorithm 
 
 ## Pipeline
 
-**Cremaschi A**, Wertz T, De Iorio M. Repulsion, Chaos and Equilibrium in Mixture Models arXiv preprint arXiv:2306.10669.
+De Iorio M, van den Boom W, Beskos A, Jasra A, **Cremaschi A**. “Graph of Graphs: From Nodes to Supernodes in Graphical Models” arXiv preprint arXiv:2310.11741.
 
 **Cremaschi A**, Cadonna A, Guglielmi A, Quintana F. “A change-point random partition model for large spatio-temporal datasets” arXiv preprint arXiv:2312.12396.
-
-**Cremaschi A**, Yang W, De Iorio M, Evans WE, Yang JJ and Rosner GL. Bayesian modelling of response to therapy and drug-sensitivity in acute lymphoblastic leukemia. _Research Square_. doi: 10.21203/rs.3.rs-2542277/v1 
 
 
 ## Research activity @ A*STAR, Singapore
