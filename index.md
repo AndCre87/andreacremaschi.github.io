@@ -13,9 +13,9 @@ Other research interests are model-based cluster analysis, graphical models, mul
 
 ## Selected Publications
 
-**Cremaschi A**, Wertz T, De Iorio M. “Repulsion, Chaos and Equilibrium in Mixture Models”. _Journal of the Royal Statistical Society B (Statistical Methodology)_. accepted.
+**Cremaschi A**, Wertz T, De Iorio M. “Repulsion, Chaos and Equilibrium in Mixture Models”. _Journal of the Royal Statistical Society B (Statistical Methodology)_, 2024 Oct 10.
 
-**Cremaschi A**, De Iorio M, Kothandaraman N, Yap F, Tint MT and Eriksson J (2023) Joint modelling of association networks and longitudinal biomarkers: an application to child obesity. _Statistics in Medicine_ - in publication.
+**Cremaschi A**, De Iorio M, Kothandaraman N, Yap F, Tint MT and Eriksson J (2023) Joint modelling of association networks and longitudinal biomarkers: an application to child obesity. _Statistics in Medicine_, https://doi.org/10.1002/sim.9994
 
 Kee MZL, **Cremaschi A**, De Iorio M, Chen H, Montreuil T, Nguyen TV, Côté SM, O’Donnell KJ, Giesbrecht GF, Letourneau N, Chan SY and Meaney MJ (2023) Perinatal Trajectories of Maternal Depressive Symptoms in Prospective, Community-Based Cohorts across Three Continents. _JAMA Network Open_, 6(10), e2339942-e2339942.
 
