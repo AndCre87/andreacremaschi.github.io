@@ -2,7 +2,7 @@ Andrea Cremaschi
 <img src="MainFig2.jpg" alt="drawing" width="210"/>
 
 ## About my work
-I am currently Assistant Professor at the School, of Science and Techonology, IE University in Madrid, Spain.
+I am currently Assistant Professor at the School, of Science and Technology, IE University in Madrid, Spain.
 
 My research interests include both methodological and applied aspects of Statistics, particularly within the Bayesian framework.
 One of my main interests is Bayesian nonparametrics (BNP), and the use of flexible mixture
