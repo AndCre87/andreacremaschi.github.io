@@ -41,13 +41,13 @@ Argiento R, **Cremaschi A**, Vannucci M (2019) Hierarchical Normalized Completel
 
 Argiento R, **Cremaschi A**, Guglielmi A (2014) A “Density-Based” Algorithm for Cluster Analysis Using Species Sampling Gaussian Mixture Models. _Journal of Computational and Graphical Statistics_, 23(4), 1126-1142. DOI: 10.1080/10618600.2013.856796
 
-<--
+
 ## Pipeline
 
 De Iorio M, van den Boom W, Beskos A, Jasra A, **Cremaschi A**. “Graph of Graphs: From Nodes to Supernodes in Graphical Models” arXiv preprint arXiv:2310.11741.
 
 **Cremaschi A**, Cadonna A, Guglielmi A, Quintana F. “A change-point random partition model for large spatio-temporal datasets” arXiv preprint arXiv:2312.12396.
--->
+
 
 ## Research activity @ A*STAR, Singapore
 The work I am conducting at A*STAR focuses on the implementation of advanced, often semi-parametric, Bayesian models to real-life data applications. In particular, I am interested in studying challenging datasets, involving mixed-type responses, covariates and time dynamics. In this framework, the application of Bayesian nonparametric models allows for a more flexible fitting. The focus of my work is on detection of modifiable factors for early intervention, by analysisng data from large cohorts involving children and their parents. The aspects I mostly focus on are transaltional neuroscience, metabolomics and child development.
